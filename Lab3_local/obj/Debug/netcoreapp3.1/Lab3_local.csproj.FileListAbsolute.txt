@@ -1,0 +1,11 @@
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\bin\Debug\netcoreapp3.1\Lab3_local.exe
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\bin\Debug\netcoreapp3.1\Lab3_local.deps.json
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\bin\Debug\netcoreapp3.1\Lab3_local.runtimeconfig.json
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\bin\Debug\netcoreapp3.1\Lab3_local.runtimeconfig.dev.json
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\bin\Debug\netcoreapp3.1\Lab3_local.dll
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\bin\Debug\netcoreapp3.1\Lab3_local.pdb
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\obj\Debug\netcoreapp3.1\Lab3_local.csprojAssemblyReference.cache
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\obj\Debug\netcoreapp3.1\Lab3_local.AssemblyInfoInputs.cache
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\obj\Debug\netcoreapp3.1\Lab3_local.AssemblyInfo.cs
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\obj\Debug\netcoreapp3.1\Lab3_local.dll
+C:\Users\Xdant\source\repos\Lab3_local\Lab3_local\obj\Debug\netcoreapp3.1\Lab3_local.pdb
